@@ -1,0 +1,23 @@
+/* Algemene opmaak */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Layout en structuur */
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Navigatie */
+nav {
+    background: #0077cc;
+    color: #fff;
+    padding: 10px 20px;
